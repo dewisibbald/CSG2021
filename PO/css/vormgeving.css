@@ -48,7 +48,7 @@ a:active {
     text-decoration: none;
 }
 a:hover {
-    background-color: rgb(177, 159, 133);
+    background-color: rgba(255, 239, 215, 0.849);
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     transition-duration: 0.4s;
 }
@@ -65,10 +65,14 @@ a:visited {
     padding-left: 0px;
     margin-top: 32px;
     font-family: Inter;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 50px;
     
 }
 
 #VNR {
     display: flex;
 }
+
 
